@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Guilherme Lins 👋
 ### Estudante na _Faculdade SENAC_.
 ### Cursando: _Analise e Desenvolvimento de Sistemas_
-### Periodo: 1/5
+### Periodo: 3/5
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lins-021033171)
 
